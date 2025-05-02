@@ -1,0 +1,4 @@
+------------mudanças no projeto--------------
+
+-alteração de algumas classes na tabela pedido.
+-foi adicionado data do pedido e total. 
